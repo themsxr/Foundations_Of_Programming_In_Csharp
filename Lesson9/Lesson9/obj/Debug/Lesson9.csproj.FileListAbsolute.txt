@@ -1,0 +1,7 @@
+C:\Users\micha\Desktop\me\github\csharp_lessons\Lesson9\Lesson9\bin\Debug\Lesson9.exe.config
+C:\Users\micha\Desktop\me\github\csharp_lessons\Lesson9\Lesson9\bin\Debug\Lesson9.exe
+C:\Users\micha\Desktop\me\github\csharp_lessons\Lesson9\Lesson9\bin\Debug\Lesson9.pdb
+C:\Users\micha\Desktop\me\github\csharp_lessons\Lesson9\Lesson9\obj\Debug\Lesson9.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\me\github\csharp_lessons\Lesson9\Lesson9\obj\Debug\Lesson9.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\me\github\csharp_lessons\Lesson9\Lesson9\obj\Debug\Lesson9.exe
+C:\Users\micha\Desktop\me\github\csharp_lessons\Lesson9\Lesson9\obj\Debug\Lesson9.pdb

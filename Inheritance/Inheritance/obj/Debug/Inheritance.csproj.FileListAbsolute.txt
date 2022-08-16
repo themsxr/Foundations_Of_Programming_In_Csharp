@@ -1,0 +1,7 @@
+C:\Users\micha\Desktop\me\github\csharp_lessons\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\me\github\csharp_lessons\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\me\github\csharp_lessons\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\micha\Desktop\me\github\csharp_lessons\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\micha\Desktop\me\github\csharp_lessons\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\micha\Desktop\me\github\csharp_lessons\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\micha\Desktop\me\github\csharp_lessons\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

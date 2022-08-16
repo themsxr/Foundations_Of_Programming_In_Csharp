@@ -1,0 +1,7 @@
+C:\Users\micha\Desktop\me\github\csharp_exercises\UnitTest1\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\micha\Desktop\me\github\csharp_exercises\UnitTest1\TestProject\bin\Debug\TestProject.exe
+C:\Users\micha\Desktop\me\github\csharp_exercises\UnitTest1\TestProject\bin\Debug\TestProject.pdb
+C:\Users\micha\Desktop\me\github\csharp_exercises\UnitTest1\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\me\github\csharp_exercises\UnitTest1\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\me\github\csharp_exercises\UnitTest1\TestProject\obj\Debug\TestProject.exe
+C:\Users\micha\Desktop\me\github\csharp_exercises\UnitTest1\TestProject\obj\Debug\TestProject.pdb
